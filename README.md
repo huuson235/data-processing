@@ -1,4 +1,4 @@
-  # Huong dan su dung tool
+ # Huong dan su dung tool
  ## B1: Dung file extract_frame.py de extract toan bo frame cua video sperms.mp4 https://drive.google.com/file/d/0BzdNV3JX5NpndmhScm1NVDRCREU/view?usp=sharing 
  
  ## B2: Su dung tool https://github.com/huuson235/label-and-bbox lam cong cu dan' nhan
