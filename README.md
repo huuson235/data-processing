@@ -10,11 +10,12 @@
  1. Chon "Change Save Dir" cu the, de tim
  2. Dung "Open Dir" de mo folder frames
  3. Dung chuc nang View/AutoSaving de cho tien
- 4. Danh' nhan tat ca dau tinh trung chuot (cai moc cau)
+ 4. Dung chuc nang "Use default label" de gan' nhan mac dinh la "sperm" nhu vay khong can phai nhap nhan~ lam gi nua
+ 5. Danh' nhan tat ca dau tinh trung chuot (cai moc cau)
  
  ### Chu y:
  
- Nhung frame gan nhau co noi dung giong nhau co the bo qua.
+ Nhung frame gan nhau co noi dung giong nhau co the bo qua (hay nhay coc' neu can).
  
  Da co tool convert xml -> file cham lam label nen khong phai lo ve dinh dang save.
  
